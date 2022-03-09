@@ -1,0 +1,9 @@
+C:\Users\Quezada\Desktop\practicaDepreciacion\Infraestructure\bin\Debug\Infraestructure.dll
+C:\Users\Quezada\Desktop\practicaDepreciacion\Infraestructure\bin\Debug\Infraestructure.pdb
+C:\Users\Quezada\Desktop\practicaDepreciacion\Infraestructure\bin\Debug\Domain.dll
+C:\Users\Quezada\Desktop\practicaDepreciacion\Infraestructure\bin\Debug\Domain.pdb
+C:\Users\Quezada\Desktop\practicaDepreciacion\Infraestructure\obj\Debug\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Quezada\Desktop\practicaDepreciacion\Infraestructure\obj\Debug\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Quezada\Desktop\practicaDepreciacion\Infraestructure\obj\Debug\Infraestructure.csproj.CopyComplete
+C:\Users\Quezada\Desktop\practicaDepreciacion\Infraestructure\obj\Debug\Infraestructure.dll
+C:\Users\Quezada\Desktop\practicaDepreciacion\Infraestructure\obj\Debug\Infraestructure.pdb

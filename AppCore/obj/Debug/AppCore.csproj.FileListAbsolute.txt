@@ -1,0 +1,11 @@
+C:\Users\Quezada\Desktop\practicaDepreciacion\AppCore\bin\Debug\AppCore.dll
+C:\Users\Quezada\Desktop\practicaDepreciacion\AppCore\bin\Debug\AppCore.pdb
+C:\Users\Quezada\Desktop\practicaDepreciacion\AppCore\bin\Debug\Domain.dll
+C:\Users\Quezada\Desktop\practicaDepreciacion\AppCore\bin\Debug\Infraestructure.dll
+C:\Users\Quezada\Desktop\practicaDepreciacion\AppCore\bin\Debug\Domain.pdb
+C:\Users\Quezada\Desktop\practicaDepreciacion\AppCore\bin\Debug\Infraestructure.pdb
+C:\Users\Quezada\Desktop\practicaDepreciacion\AppCore\obj\Debug\AppCore.csproj.AssemblyReference.cache
+C:\Users\Quezada\Desktop\practicaDepreciacion\AppCore\obj\Debug\AppCore.csproj.CoreCompileInputs.cache
+C:\Users\Quezada\Desktop\practicaDepreciacion\AppCore\obj\Debug\AppCore.csproj.CopyComplete
+C:\Users\Quezada\Desktop\practicaDepreciacion\AppCore\obj\Debug\AppCore.dll
+C:\Users\Quezada\Desktop\practicaDepreciacion\AppCore\obj\Debug\AppCore.pdb

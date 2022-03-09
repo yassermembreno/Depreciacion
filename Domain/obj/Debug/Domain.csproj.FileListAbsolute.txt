@@ -1,0 +1,6 @@
+C:\Users\Quezada\Desktop\practicaDepreciacion\Domain\bin\Debug\Domain.dll
+C:\Users\Quezada\Desktop\practicaDepreciacion\Domain\bin\Debug\Domain.pdb
+C:\Users\Quezada\Desktop\practicaDepreciacion\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Quezada\Desktop\practicaDepreciacion\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Quezada\Desktop\practicaDepreciacion\Domain\obj\Debug\Domain.dll
+C:\Users\Quezada\Desktop\practicaDepreciacion\Domain\obj\Debug\Domain.pdb
