@@ -13,16 +13,18 @@ namespace Infraestructure.Repository
     {
         public Activo GetById(int id)
         {
-            foreach(Activo activo in data)
-            {
-                if (activo.Id == id)
-                {
-                    return activo;
+            return data.Where(x => x.Id == id).FirstOrDefault();
+
+            //foreach(Activo activo in data)
+            //{
+            //    if (activo.Id == id)
+            //    {
+            //        return activo;
                    
-                }
+            //    }
                
-            }
-            return null;
+            //}
+            //return null;
         }
     }
 }

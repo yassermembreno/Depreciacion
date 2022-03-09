@@ -79,7 +79,7 @@ namespace practicaDepreciacion
                     Nombre = txtNombre.Text,
                     Valor = double.Parse(txtValor.Text),
                     ValorResidual=double.Parse(txtValorR.Text),
-                    VidaUtil=double.Parse(txtVidaU.Text)
+                    VidaUtil= int.Parse(txtVidaU.Text)
                 };
                 activoServices.Add(activo);
                 dataGridView1.DataSource = null;
@@ -112,6 +112,11 @@ namespace practicaDepreciacion
                 FrmDepreciacion depreciacion = new FrmDepreciacion(activoServices.Read()[e.RowIndex]);
                 depreciacion.ShowDialog();
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            dataGridView1.DataSource = activoServices.Read();
         }
     }
 }

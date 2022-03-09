@@ -9,8 +9,7 @@ namespace Domain.Interfaces
 {
     public interface IDepreciacionModel
     {
-        List<double> Depreciacion(Activo activo);
-       
+        List<double> Depreciacion(Activo activo);      
         
     }
 }

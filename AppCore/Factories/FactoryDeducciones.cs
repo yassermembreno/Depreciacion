@@ -11,8 +11,6 @@ namespace AppCore.Factories
 {
     public static class FactoryDeducciones
     {
-
-
         public static IDepreciacionModel FactoryDepreciacion(Depreciacion depreciacion)
         {
             if (depreciacion == Depreciacion.LineaRecta)

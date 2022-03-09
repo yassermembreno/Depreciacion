@@ -22,7 +22,7 @@ namespace practicaDepreciacion
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
            var builder = new ContainerBuilder();
-            builder.RegisterType<ListActivoRepository>().As<IActivoModel>();
+            builder.RegisterType<StreamActivoRepository>().As<IActivoModel>();
             builder.RegisterType<ActivoServices>().As<IActivoServices>();
             var container = builder.Build();
             Application.Run(new Form1(container.Resolve<IActivoServices>()));

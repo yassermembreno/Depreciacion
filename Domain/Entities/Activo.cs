@@ -12,7 +12,7 @@ namespace Domain.Entities
         public int Id { get; set; }
         public String Nombre { get; set; }
         public double Valor { get; set; }
-        public double VidaUtil { get; set; }
+        public int VidaUtil { get; set; }
         public double ValorResidual { get; set; }       
 
     }

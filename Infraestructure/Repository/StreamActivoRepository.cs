@@ -59,22 +59,29 @@ namespace Infraestructure.Repository
                 using (FileStream fileStream = new FileStream(fileName, FileMode.OpenOrCreate, FileAccess.Read))
                 {
                     binaryReader = new StreamReader(fileStream);
-                   
-                    binaryReader.BaseStream.
-                    binaryWriter.Write(t.Id);
-                    binaryWriter.Write(t.Nombre);
-                    binaryWriter.Write(t.Valor);
-                    binaryWriter.Write(t.VidaUtil);
-                    binaryWriter.Write(t.ValorResidual);
+                    BinaryReader br = new BinaryReader(binaryReader.BaseStream);
+                    while (!binaryReader.EndOfStream)
+                    {
+                        activos.Add(new Activo()
+                        {
+                            Id = br.ReadInt32(),
+                            Nombre = br.ReadString(),
+                            Valor = br.ReadDouble(),
+                            VidaUtil = br.ReadInt32(),
+                            ValorResidual = br.ReadDouble()
+                        });
+                    }
+                    
 
                     binaryWriter.Close();
                 }
-
+                return activos;
             }
             catch (IOException)
             {
                 throw;
             }
+
         }
     }
 }

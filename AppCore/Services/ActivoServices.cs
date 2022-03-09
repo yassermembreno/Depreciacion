@@ -13,7 +13,6 @@ namespace AppCore.Services
     {
 
         IActivoModel activoModel;
-
         public ActivoServices(IActivoModel model) : base(model)
         {
             this.activoModel = model;

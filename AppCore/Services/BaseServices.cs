@@ -23,7 +23,7 @@ namespace AppCore.Services
 
         public void Delete(T t)
         {
-            Model.Add(t);
+            Model.Delete(t);
         }
 
         public List<T> Read()

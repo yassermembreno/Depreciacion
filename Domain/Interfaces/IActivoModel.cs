@@ -10,10 +10,7 @@ namespace Domain.Interfaces
 {
     public interface IActivoModel: IModel<Activo>
     {
-
-        Activo GetById(int id);
-
- 
+        Activo GetById(int id); 
 
     }
 }
