@@ -15,7 +15,7 @@ namespace Infraestructure.Repository
         {
             foreach(Activo activo in data)
             {
-                if (activo.id == id)
+                if (activo.Id == id)
                 {
                     return activo;
                    

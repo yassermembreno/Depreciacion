@@ -76,10 +76,10 @@ namespace practicaDepreciacion
 
                 Activo activo = new Activo()
                 {
-                    nombre = txtNombre.Text,
-                    valor = double.Parse(txtValor.Text),
-                    valorResidual=double.Parse(txtValorR.Text),
-                    vidaUtil=double.Parse(txtVidaU.Text)
+                    Nombre = txtNombre.Text,
+                    Valor = double.Parse(txtValor.Text),
+                    ValorResidual=double.Parse(txtValorR.Text),
+                    VidaUtil=double.Parse(txtVidaU.Text)
                 };
                 activoServices.Add(activo);
                 dataGridView1.DataSource = null;

@@ -9,15 +9,11 @@ namespace Domain.Entities
 {
     public class Activo
     {
-        public int id { get; set; }
-        public String nombre { get; set; }
-        public double valor { get; set; }
-
-        public double vidaUtil { get; set; }
-
-        public double valorResidual { get; set; }
-
-       
+        public int Id { get; set; }
+        public String Nombre { get; set; }
+        public double Valor { get; set; }
+        public double VidaUtil { get; set; }
+        public double ValorResidual { get; set; }       
 
     }
 }

@@ -37,7 +37,7 @@ namespace practicaDepreciacion
                 total += depreciaciones[i];
             }
             richTextBox1.Text += $"Total: {total}\n";
-            richTextBox1.Text += $"Valor residual: {activo.valorResidual}";
+            richTextBox1.Text += $"Valor residual: {activo.ValorResidual}";
 
 
         }

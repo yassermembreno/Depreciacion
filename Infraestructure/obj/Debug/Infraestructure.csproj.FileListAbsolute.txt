@@ -7,3 +7,12 @@ C:\Users\Quezada\Desktop\practicaDepreciacion\Infraestructure\obj\Debug\Infraest
 C:\Users\Quezada\Desktop\practicaDepreciacion\Infraestructure\obj\Debug\Infraestructure.csproj.CopyComplete
 C:\Users\Quezada\Desktop\practicaDepreciacion\Infraestructure\obj\Debug\Infraestructure.dll
 C:\Users\Quezada\Desktop\practicaDepreciacion\Infraestructure\obj\Debug\Infraestructure.pdb
+C:\Users\JADPA13\source\repos\Primera_Clase\Infraestructure\bin\Debug\Infraestructure.dll
+C:\Users\JADPA13\source\repos\Primera_Clase\Infraestructure\bin\Debug\Infraestructure.pdb
+C:\Users\JADPA13\source\repos\Primera_Clase\Infraestructure\bin\Debug\Domain.dll
+C:\Users\JADPA13\source\repos\Primera_Clase\Infraestructure\bin\Debug\Domain.pdb
+C:\Users\JADPA13\source\repos\Primera_Clase\Infraestructure\obj\Debug\Infraestructure.csprojAssemblyReference.cache
+C:\Users\JADPA13\source\repos\Primera_Clase\Infraestructure\obj\Debug\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\JADPA13\source\repos\Primera_Clase\Infraestructure\obj\Debug\Infraestructure.csproj.CopyComplete
+C:\Users\JADPA13\source\repos\Primera_Clase\Infraestructure\obj\Debug\Infraestructure.dll
+C:\Users\JADPA13\source\repos\Primera_Clase\Infraestructure\obj\Debug\Infraestructure.pdb

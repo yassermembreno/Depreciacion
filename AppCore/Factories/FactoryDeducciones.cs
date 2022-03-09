@@ -1,6 +1,6 @@
 ﻿using Domain.Enum;
 using Domain.Interfaces;
-using Infraestructure.Repository;
+using AppCore.Processes;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -9,3 +9,14 @@ C:\Users\Quezada\Desktop\practicaDepreciacion\AppCore\obj\Debug\AppCore.csproj.C
 C:\Users\Quezada\Desktop\practicaDepreciacion\AppCore\obj\Debug\AppCore.csproj.CopyComplete
 C:\Users\Quezada\Desktop\practicaDepreciacion\AppCore\obj\Debug\AppCore.dll
 C:\Users\Quezada\Desktop\practicaDepreciacion\AppCore\obj\Debug\AppCore.pdb
+C:\Users\JADPA13\source\repos\Primera_Clase\AppCore\bin\Debug\AppCore.dll
+C:\Users\JADPA13\source\repos\Primera_Clase\AppCore\bin\Debug\AppCore.pdb
+C:\Users\JADPA13\source\repos\Primera_Clase\AppCore\bin\Debug\Domain.dll
+C:\Users\JADPA13\source\repos\Primera_Clase\AppCore\bin\Debug\Infraestructure.dll
+C:\Users\JADPA13\source\repos\Primera_Clase\AppCore\bin\Debug\Domain.pdb
+C:\Users\JADPA13\source\repos\Primera_Clase\AppCore\bin\Debug\Infraestructure.pdb
+C:\Users\JADPA13\source\repos\Primera_Clase\AppCore\obj\Debug\AppCore.csprojAssemblyReference.cache
+C:\Users\JADPA13\source\repos\Primera_Clase\AppCore\obj\Debug\AppCore.csproj.CoreCompileInputs.cache
+C:\Users\JADPA13\source\repos\Primera_Clase\AppCore\obj\Debug\AppCore.csproj.CopyComplete
+C:\Users\JADPA13\source\repos\Primera_Clase\AppCore\obj\Debug\AppCore.dll
+C:\Users\JADPA13\source\repos\Primera_Clase\AppCore\obj\Debug\AppCore.pdb
