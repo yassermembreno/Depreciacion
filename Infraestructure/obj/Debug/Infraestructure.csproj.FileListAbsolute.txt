@@ -16,3 +16,12 @@ C:\Users\JADPA13\source\repos\Primera_Clase\Infraestructure\obj\Debug\Infraestru
 C:\Users\JADPA13\source\repos\Primera_Clase\Infraestructure\obj\Debug\Infraestructure.csproj.CopyComplete
 C:\Users\JADPA13\source\repos\Primera_Clase\Infraestructure\obj\Debug\Infraestructure.dll
 C:\Users\JADPA13\source\repos\Primera_Clase\Infraestructure\obj\Debug\Infraestructure.pdb
+E:\ProgramacionII\Depreciacion\Infraestructure\bin\Debug\Infraestructure.dll
+E:\ProgramacionII\Depreciacion\Infraestructure\bin\Debug\Infraestructure.pdb
+E:\ProgramacionII\Depreciacion\Infraestructure\bin\Debug\Domain.dll
+E:\ProgramacionII\Depreciacion\Infraestructure\bin\Debug\Domain.pdb
+E:\ProgramacionII\Depreciacion\Infraestructure\obj\Debug\Infraestructure.csprojAssemblyReference.cache
+E:\ProgramacionII\Depreciacion\Infraestructure\obj\Debug\Infraestructure.csproj.CoreCompileInputs.cache
+E:\ProgramacionII\Depreciacion\Infraestructure\obj\Debug\Infraestructure.csproj.CopyComplete
+E:\ProgramacionII\Depreciacion\Infraestructure\obj\Debug\Infraestructure.dll
+E:\ProgramacionII\Depreciacion\Infraestructure\obj\Debug\Infraestructure.pdb
