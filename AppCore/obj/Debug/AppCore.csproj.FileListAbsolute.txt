@@ -20,3 +20,14 @@ C:\Users\JADPA13\source\repos\Primera_Clase\AppCore\obj\Debug\AppCore.csproj.Cor
 C:\Users\JADPA13\source\repos\Primera_Clase\AppCore\obj\Debug\AppCore.csproj.CopyComplete
 C:\Users\JADPA13\source\repos\Primera_Clase\AppCore\obj\Debug\AppCore.dll
 C:\Users\JADPA13\source\repos\Primera_Clase\AppCore\obj\Debug\AppCore.pdb
+E:\ProgramacionII\Depreciacion\AppCore\bin\Debug\AppCore.dll
+E:\ProgramacionII\Depreciacion\AppCore\bin\Debug\AppCore.pdb
+E:\ProgramacionII\Depreciacion\AppCore\bin\Debug\Domain.dll
+E:\ProgramacionII\Depreciacion\AppCore\bin\Debug\Infraestructure.dll
+E:\ProgramacionII\Depreciacion\AppCore\bin\Debug\Domain.pdb
+E:\ProgramacionII\Depreciacion\AppCore\bin\Debug\Infraestructure.pdb
+E:\ProgramacionII\Depreciacion\AppCore\obj\Debug\AppCore.csprojAssemblyReference.cache
+E:\ProgramacionII\Depreciacion\AppCore\obj\Debug\AppCore.csproj.CoreCompileInputs.cache
+E:\ProgramacionII\Depreciacion\AppCore\obj\Debug\AppCore.csproj.CopyComplete
+E:\ProgramacionII\Depreciacion\AppCore\obj\Debug\AppCore.dll
+E:\ProgramacionII\Depreciacion\AppCore\obj\Debug\AppCore.pdb
