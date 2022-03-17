@@ -20,19 +20,20 @@ namespace Infraestructure.Repository
         }
         public void Add(Activo t)
         {
+            
             try
             {
                 int id = 0;
-                Activo lastActivo = Read().LastOrDefault();
-                if(lastActivo == null)
+                Activo last = Read().LastOrDefault();
+                if(last == null)
                 {
                     id = 1;
                 }
                 else
                 {
-                    id = lastActivo.Id + 1;
+                    id = last.Id + 1;
                 }
-                
+
                 using (FileStream fileStream = new FileStream(fileName, FileMode.Append, FileAccess.Write))
                 {
                     binaryWriter = new BinaryWriter(fileStream);
@@ -41,8 +42,6 @@ namespace Infraestructure.Repository
                     binaryWriter.Write(t.Valor);
                     binaryWriter.Write(t.VidaUtil);
                     binaryWriter.Write(t.ValorResidual);
-
-                    binaryWriter.Close();
                 }
 
             }
@@ -60,6 +59,7 @@ namespace Infraestructure.Repository
         public Activo GetById(int id)
         {
             Activo activo = null;
+            bool success = false;
             try
             {
                 using (FileStream fileStream = new FileStream(fileName, FileMode.OpenOrCreate, FileAccess.Read))
@@ -75,29 +75,29 @@ namespace Infraestructure.Repository
                     binaryReader.BaseStream.Seek(0, SeekOrigin.Begin);
                     while (binaryReader.BaseStream.Position < length)
                     {
-                       activo = new Activo()
-                       {
+                        activo = new Activo()
+                        {
                             Id = binaryReader.ReadInt32(),
                             Nombre = binaryReader.ReadString(),
                             Valor = binaryReader.ReadDouble(),
                             VidaUtil = binaryReader.ReadInt32(),
                             ValorResidual = binaryReader.ReadDouble()
-                       };
+                        };
 
                         if(activo.Id == id)
                         {
+                            success = true;
                             break;
                         }
                     }
-                }
 
-                return activo;
+                }
+                return success ? activo : null;
             }
             catch (IOException)
             {
                 throw;
             }
-
         }
 
         public List<Activo> Read()
@@ -127,6 +127,7 @@ namespace Infraestructure.Repository
                             ValorResidual = binaryReader.ReadDouble()
                         });
                     }
+                                     
                 }
                 return activos;
             }
