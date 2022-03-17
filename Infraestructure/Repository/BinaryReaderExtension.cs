@@ -5,10 +5,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Infraestructure.Data
+namespace Infraestructure.Repository
 {
     public static class BinaryReaderExtension
     {
+        //TODO avoid T and try to replace TypeCode by type
         public static object GetValue<T>(this BinaryReader br, TypeCode typeCode)
         {
             switch (typeCode)
