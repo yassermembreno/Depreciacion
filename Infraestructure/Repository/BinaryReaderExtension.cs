@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Infraestructure.Data
+namespace Infraestructure.Repository
 {
     public static class BinaryReaderExtension
     {
