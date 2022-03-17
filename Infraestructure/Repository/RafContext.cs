@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Domain.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
@@ -10,10 +11,12 @@ using System.Threading.Tasks;
 
 namespace Infraestructure.Repository
 {
-    public class RAFContext
+    public class RAFContext<T>
     {
         private string fileName;
         private int size;
+        private const string directoryName = "DATA";
+        private string DirectoryPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), directoryName);
 
         public RAFContext(string fileName, int size)
         {
@@ -281,5 +284,7 @@ namespace Infraestructure.Repository
                 throw;
             }
         }
+
+        //TODO Add Update and Delete method
     }
 }
