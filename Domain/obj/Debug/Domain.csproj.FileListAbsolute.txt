@@ -9,3 +9,12 @@ C:\Users\JADPA13\source\repos\Primera_Clase\Domain\bin\Debug\Domain.pdb
 C:\Users\JADPA13\source\repos\Primera_Clase\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 C:\Users\JADPA13\source\repos\Primera_Clase\Domain\obj\Debug\Domain.dll
 C:\Users\JADPA13\source\repos\Primera_Clase\Domain\obj\Debug\Domain.pdb
+E:\ProgramacionII\Depreciacion\Domain\bin\Debug\Domain.dll
+E:\ProgramacionII\Depreciacion\Domain\bin\Debug\Domain.pdb
+E:\ProgramacionII\Depreciacion\Domain\bin\Debug\Newtonsoft.Json.dll
+E:\ProgramacionII\Depreciacion\Domain\bin\Debug\Newtonsoft.Json.xml
+E:\ProgramacionII\Depreciacion\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+E:\ProgramacionII\Depreciacion\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+E:\ProgramacionII\Depreciacion\Domain\obj\Debug\Domain.csproj.CopyComplete
+E:\ProgramacionII\Depreciacion\Domain\obj\Debug\Domain.dll
+E:\ProgramacionII\Depreciacion\Domain\obj\Debug\Domain.pdb
