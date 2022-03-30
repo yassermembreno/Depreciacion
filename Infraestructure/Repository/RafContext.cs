@@ -291,5 +291,31 @@ namespace Infraestructure.Repository
             }
            
         }
+
+        public int GetLastId()
+        {
+            int k = 0;
+            try
+            {
+                using (BinaryReader brHeader = new BinaryReader(HeaderStream))
+                {
+                    if(brHeader.BaseStream.Length <= 0)
+                    {
+                        return k;
+                    }
+
+                    long posh = 4;
+                    brHeader.BaseStream.Seek(posh, SeekOrigin.Begin);
+
+                    k = brHeader.ReadInt32();
+                }
+            }
+            catch (IOException)
+            {
+                throw;
+            }
+
+            return k;
+        }
     }
 }
