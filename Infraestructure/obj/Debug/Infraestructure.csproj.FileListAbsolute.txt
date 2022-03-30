@@ -25,3 +25,5 @@ E:\ProgramacionII\Depreciacion\Infraestructure\obj\Debug\Infraestructure.csproj.
 E:\ProgramacionII\Depreciacion\Infraestructure\obj\Debug\Infraestructure.csproj.CopyComplete
 E:\ProgramacionII\Depreciacion\Infraestructure\obj\Debug\Infraestructure.dll
 E:\ProgramacionII\Depreciacion\Infraestructure\obj\Debug\Infraestructure.pdb
+E:\ProgramacionII\Depreciacion\Infraestructure\bin\Debug\Newtonsoft.Json.dll
+E:\ProgramacionII\Depreciacion\Infraestructure\bin\Debug\Newtonsoft.Json.xml

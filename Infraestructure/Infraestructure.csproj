@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -45,6 +48,7 @@
     <Compile Include="Repository\BaseRepositoy.cs" />
     <Compile Include="Repository\BinaryActivoRepository.cs" />
     <Compile Include="Repository\BinaryReaderExtension.cs" />
+    <Compile Include="Repository\JsonActivoRepository.cs" />
     <Compile Include="Repository\ListActivoRepository.cs" />
     <Compile Include="Repository\RafContext.cs" />
     <Compile Include="Repository\StreamActivoRepository.cs" />
@@ -54,6 +58,9 @@
       <Project>{74D1B8F5-415A-465B-84D6-0032E14CE8D2}</Project>
       <Name>Domain</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -15,3 +15,6 @@ E:\ProgramacionII\Depreciacion\Domain\obj\Debug\Domain.csprojAssemblyReference.c
 E:\ProgramacionII\Depreciacion\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 E:\ProgramacionII\Depreciacion\Domain\obj\Debug\Domain.dll
 E:\ProgramacionII\Depreciacion\Domain\obj\Debug\Domain.pdb
+E:\ProgramacionII\Depreciacion\Domain\bin\Debug\Newtonsoft.Json.dll
+E:\ProgramacionII\Depreciacion\Domain\bin\Debug\Newtonsoft.Json.xml
+E:\ProgramacionII\Depreciacion\Domain\obj\Debug\Domain.csproj.CopyComplete

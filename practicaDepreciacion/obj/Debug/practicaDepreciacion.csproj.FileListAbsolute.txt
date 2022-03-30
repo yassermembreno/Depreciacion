@@ -108,3 +108,5 @@ E:\ProgramacionII\Depreciacion\practicaDepreciacion\obj\Debug\practicaDepreciaci
 E:\ProgramacionII\Depreciacion\practicaDepreciacion\obj\Debug\practicaDepreciacion.csproj.CopyComplete
 E:\ProgramacionII\Depreciacion\practicaDepreciacion\obj\Debug\practicaDepreciacion.exe
 E:\ProgramacionII\Depreciacion\practicaDepreciacion\obj\Debug\practicaDepreciacion.pdb
+E:\ProgramacionII\Depreciacion\practicaDepreciacion\bin\Debug\Newtonsoft.Json.dll
+E:\ProgramacionII\Depreciacion\practicaDepreciacion\bin\Debug\Newtonsoft.Json.xml

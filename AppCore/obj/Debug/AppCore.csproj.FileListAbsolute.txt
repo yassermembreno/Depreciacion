@@ -31,3 +31,5 @@ E:\ProgramacionII\Depreciacion\AppCore\obj\Debug\AppCore.csproj.CoreCompileInput
 E:\ProgramacionII\Depreciacion\AppCore\obj\Debug\AppCore.csproj.CopyComplete
 E:\ProgramacionII\Depreciacion\AppCore\obj\Debug\AppCore.dll
 E:\ProgramacionII\Depreciacion\AppCore\obj\Debug\AppCore.pdb
+E:\ProgramacionII\Depreciacion\AppCore\bin\Debug\Newtonsoft.Json.dll
+E:\ProgramacionII\Depreciacion\AppCore\bin\Debug\Newtonsoft.Json.xml
